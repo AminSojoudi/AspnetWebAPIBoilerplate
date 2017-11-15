@@ -4,5 +4,5 @@ This project is a boiler plate for web api projects with:
 - token based Authentication (Asp.net Identity)
 - Active Directory login
 - Simple Autorization mechanism
-
+- Redis Database support (with help of StackExchange.Redis)
 
